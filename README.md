@@ -4,5 +4,6 @@ It's a markup language used to apply styles for HTML. In Simple terms, if **HTML
 web page, **CSS** is what makes it look good.<br>
 ## Exercises  
 - Cafe Menu  
-- Business Card
+- Business Card  
+- To Do List
 
