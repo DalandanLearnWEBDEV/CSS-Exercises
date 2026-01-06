@@ -1,0 +1,6 @@
+Pseudo Classes
+:link - unvisted link
+:visited - visited link
+:hover - changes the link's style when the user hovers over it
+:focus - adds styles around the link when it is focused
+:active - the link is being clicked
