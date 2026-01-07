@@ -4,3 +4,10 @@ Pseudo Classes
 :hover - changes the link's style when the user hovers over it
 :focus - adds styles around the link when it is focused
 :active - the link is being clicked
+
+For Images
+- background-image: url()
+- background-size
+- bacground-repeat
+- background-position
+- background-attachment
