@@ -5,9 +5,11 @@ Pseudo Classes
 :focus - adds styles around the link when it is focused
 :active - the link is being clicked
 
-For Images
+For Images:
 - background-image: url()
 - background-size
 - bacground-repeat
 - background-position
 - background-attachment
+Background Short hand
+- background: center top fixed url("") = background-image + background-position + background-attachment
