@@ -13,3 +13,13 @@ For Images:
 - background-attachment
 Background Short hand
 - background: center top fixed url("") = background-image + background-position + background-attachment
+
+For Background
+- background: radial-gradient(circle closest-side at center, red, yellow 50%, green);
+- background: radial-gradient(circle closest-side at center, red, yellow 50%, green);
+
+Border
+- border: 2px solid red
+
+Inside border
+- outline: 2px solid red
