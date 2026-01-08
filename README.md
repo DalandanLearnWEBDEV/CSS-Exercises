@@ -5,5 +5,6 @@ web page, **CSS** is what makes it look good.<br>
 ## Exercises  
 - Cafe Menu  
 - Business Card  
-- To Do List
+- To Do List  
+- Blog Post Card
 
