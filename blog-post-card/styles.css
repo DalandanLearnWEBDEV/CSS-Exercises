@@ -1,0 +1,53 @@
+body {
+    background-color: whitesmoke;
+}
+
+.blog-post-card {
+    background-color: white;
+    max-width: 350px;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 12px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}   
+
+.post-img {
+    width: 100%;
+    display: inline-block;
+    height: 250px;
+    object-fit: cover; /*fills the cat developer image in the container*/
+    border-bottom: 5px solid rgb(46, 152, 46);
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.post-content {
+    font-family: sans-serif;
+    padding: 20px; /* to align and to fit in the container*/
+}
+
+.post-title {
+    color: rgb(46, 152, 46);
+    margin-top: 5px;
+}
+
+
+.post-excerpt {
+    color: #459a5c;
+}
+
+.read-more {
+    color: black;
+    background-color: rgb(6, 239, 6);
+    display: inline-block;
+    margin: 5px;
+    padding: 12px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.read-more:hover {
+    background-color: black;
+    color: rgb(6, 239, 6);
+}
