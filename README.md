@@ -6,5 +6,6 @@ web page, **CSS** is what makes it look good.<br>
 - Cafe Menu  
 - Business Card  
 - To Do List  
-- Blog Post Card
+- Blog Post Card  
+- Event Flyer Page
 
