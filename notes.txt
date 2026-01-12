@@ -23,3 +23,16 @@ Border
 
 Inside border
 - outline: 2px solid red
+
+
+Relative and Absolute Units 
+Good to use:
+em - good for margin, margin, padding, depend on size of container
+rem - font-size, Typography, depend on root size
+px - Fixed, Border, Icons
+vh/vw - good for layout and sections(vh-hero, vw-full width background)
+calc(n + n) - good for layout width, full-width minus sidebar, Centering with offset, Responsive cards / grids, Dynamic padding or margin
+Good to use for calc()
+calc(100% - 60px) - header/footer offset
+calc(50%) - 1rem - grid spacing
+calc(100vh - 80px) full screen minus navbar
